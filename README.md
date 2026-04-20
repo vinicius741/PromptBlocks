@@ -18,6 +18,7 @@ The idea is simple: give different AI models the exact same prompt and compare w
 | [`gemini-3/`](./gemini-3) | Google Gemini 3 |
 | [`gemini-3.1/`](./gemini-3.1) | Google Gemini 3.1 |
 | [`kimi-k2.5/`](./kimi-k2.5) | Kimi K2.5 |
+| [`kimi-k2.6/`](./kimi-k2.6) | Kimi K2.6 |
 | [`minimax-2.5/`](./minimax-2.5) | MiniMax 2.5 |
 
 Each implementation is self-contained with its own `package.json`, source code, and tests.
